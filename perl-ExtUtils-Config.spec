@@ -12,6 +12,8 @@ Group:		Development/Perl
 BuildRequires:	perl
 BuildRequires:	perl(ExtUtils::MakeMaker)
 BuildArch:	noarch
+# For tests only
+BuildRequires:	perl(Test::More)
 
 %description
 ExtUtils::Config is an abstraction around the %Config hash. By itself it is not
