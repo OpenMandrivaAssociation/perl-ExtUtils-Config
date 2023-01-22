@@ -10,6 +10,7 @@ Source:		https://cpan.org/modules/by-module/ExtUtils/%{module}-%{version}.tar.gz
 License:	Perl (Artistic or GPL)
 Group:		Development/Perl
 BuildRequires:	perl
+BuildRequires:	perl(ExtUtils::MakeMaker)
 BuildArch:	noarch
 
 %description
