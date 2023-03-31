@@ -3,7 +3,7 @@
 
 Name:		perl-%{module}
 Version:	0.008
-Release:	1
+Release:	2
 Summary:	ExtUtils::Config - A wrapper for perl's configuration
 URL:		https://metacpan.org/pod/ExtUtils::Config
 Source:		https://cpan.org/modules/by-module/ExtUtils/%{module}-%{version}.tar.gz
