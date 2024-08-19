@@ -2,7 +2,7 @@
 %undefine _debugsource_packages
 
 Name:		perl-%{module}
-Version:	0.009
+Version:	0.010
 Release:	1
 Summary:	ExtUtils::Config - A wrapper for perl's configuration
 URL:		https://metacpan.org/pod/ExtUtils::Config
